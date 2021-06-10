@@ -1,14 +1,11 @@
-import ShowUSer from './components/show-user/show-user';
-import UserContainer from './components/user-container/user-container';
-import Counter from './components/counter/counter';
+import MainForm from './components/form/MainForm';
+import PersonalList from './components/personaList/PersonalList';
 
 function App() {
     return (
         <div>
-            <UserContainer />
-            <ShowUSer />
-            <Counter />
-
+            <MainForm />
+            <PersonalList />
         </div>
     );
 }

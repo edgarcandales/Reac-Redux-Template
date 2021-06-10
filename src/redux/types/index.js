@@ -1,3 +1,2 @@
-export const ADD_USER = 'ADD_USER';
-export const INCREASE_COUNTER = 'INCREASE_COUNTER';
-export const DECREASE_COUNTER = 'DECREASE_COUNTER';
+
+export const ADD_PERSONA = 'ADD_PERSONA';
